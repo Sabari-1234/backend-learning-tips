@@ -1,3 +1,4 @@
 const mongoose = require("mongoose");
-//image--databasename
+
+//blog
 mongoose.connect(/*connection string*/);

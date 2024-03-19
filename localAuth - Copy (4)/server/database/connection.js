@@ -1,3 +1,3 @@
 const mongoose = require("mongoose");
-//image--databasename
+//jwt
 mongoose.connect(/*connection string*/);
